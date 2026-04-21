@@ -1,4 +1,4 @@
-# README — Hult Round 2 Interview Demo
+# README — Hult/Zachery's Interview Demo
 
 **This project is for demonstration purposes only for Hult Business School's interview procedure. It is not a production system.**
 
