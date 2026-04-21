@@ -66,7 +66,7 @@ Each file in `Context/services/` would need to be populated by the engineering t
 
 ## How to run the demo
 
-1. Open Claude Code from this folder (`Hult Round 2 Interview/`)
+1. Clone this repo and open the folder in Claude Code (`claude` from the repo root, or open via the Claude Code desktop app)
 2. Type: `/decompose-intent [stakeholder request]`
 3. Claude Code will read the service landscape, identify affected services, fetch only the relevant service files, and output a structured execution plan
 4. The execution plan is the demonstration — the agent will wait for human sign-off and will not proceed further in this demo context
